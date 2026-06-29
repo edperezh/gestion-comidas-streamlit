@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+comidas.db
+__pycache__/
+*.pyc
